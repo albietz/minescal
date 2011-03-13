@@ -1,2 +1,3 @@
 minesCal génère un fichier iCalendar (.ics) à partir de cours des Mines ParisTech choisis, à spécifier par leurs codes (que l'on peut trouver sur SGS)
 
+exemple : python main.py < cours
